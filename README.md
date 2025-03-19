@@ -3,4 +3,4 @@
   
 注1:本项目引用了Office 2016的Excel组件,若要运行游戏请确保Office 2016的Excel组件运行正常  
 注2:若还要运行代码,请在VB6开发环境中打开本项目,在"工程"菜单中选择"引用"栏  
-在弹出的配置页面中确认"Microsoft Excel 16.0 Object Library"项被勾选
+在弹出的引用配置页面中确认"Microsoft Excel 16.0 Object Library"项被勾选
